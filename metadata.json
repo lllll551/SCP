@@ -1,0 +1,6 @@
+{
+  "name": "Saadi Collection Point",
+  "description": "Premier retail and gift shop in Pail, Khushab offering newborn baby essentials, bridal mehndi items, fancy laces, toys, gifts, garments, and celebration accessories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
